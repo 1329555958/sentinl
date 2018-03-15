@@ -1,5 +1,9 @@
 <img src="http://i.imgur.com/s4TKpbF.png" width="300"/>
 
+### 示例
+transform.js 不要使用太高级的语法有可能不支持
+action.html mustache语法
+
 ### Siren Investigate & Kibana Alerting & Reporting App
 
 > Watching your data, 24/7/365. 
